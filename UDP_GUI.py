@@ -8,7 +8,7 @@ import csv
 import pprint
 
 class Example(QMainWindow):
-    SrcIP = "XXX.XXX.XXX.XXX" #M5StickC Address
+    SrcIP = "192.168.1.1" #M5StickC Address
     outputName = "sample"
     labelName = "wave"
     loop = 100
